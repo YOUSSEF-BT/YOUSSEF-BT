@@ -1,6 +1,7 @@
 Hi 👋, I'm Youssef Bouzit
 
 🎓 Data Science Student | 🤖 ML Engineer | 📊 Data Analyst | 💻 Full Stack Developer
+
 💡 Passionate about turning data into insights and models into solutions
 
 📫 How to reach me: bt.youssef.369@gmail.com
@@ -53,10 +54,6 @@ Hi 👋, I'm Youssef Bouzit
 **📄 Office & Documentation**
 ![Microsoft Word](https://img.shields.io/badge/Word-2B579A?style=flat&logo=microsoftword&logoColor=white)
 ![Microsoft Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)
-
-### 📈 GitHub Analytics
-[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=ton-username&show_icons=true&theme=radical)](https://github.com/ton-username)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ton-username&layout=compact&theme=radical)](https://github.com/ton-username)
 
 ### 🎯 Currently Working On
 - 🔬 Advanced Machine Learning Projects
