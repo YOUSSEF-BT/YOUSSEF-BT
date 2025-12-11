@@ -92,8 +92,6 @@
 
 ---
 
-## 📊 **GitHub Stats**
-
 <h3 align="center">📊 GitHub Analytics</h3>
 <p align="center">
   <img src="https://img.shields.io/github/stars/YOUSSEF-BT?label=Total%20Stars&color=blue&style=for-the-badge" alt="Stars" />
