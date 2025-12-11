@@ -1,3 +1,8 @@
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/YOUSSEF-BT/YOUSSEF-BT/main/assets/bounce.gif" width="100">
+</p>
+
 <h1 align="center">Hi 👋, I'm Youssef Bouzit</h1>
 <h3 align="center">Data Science Engineering Student</h3>
 
