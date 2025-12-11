@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&color=6C63FF&center=true&vCenter=true&width=800&height=70&lines=Hi+I'm+Youssef+Bouzit+👋;Data+Science+Engineering+Student;AI+%26+Machine+Learning+Enthusiast;Welcome+to+my+GitHub+Profile!">
-</p>
-
 <h1 align="center">Hi 👋, I'm Youssef Bouzit</h1>
 <h3 align="center">Data Science Engineering Student</h3>
 
