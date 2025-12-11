@@ -1,13 +1,5 @@
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUSSEF-BT&theme=tokyonight&hide_border=true&border_radius=15">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=YOUSSEF-BT&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=YOUSSEF-BT&layout=donut&langs_count=10&theme=tokyonight&hide_border=true&border_radius=15">
+  <img src="https://github.com/YOUSSEF-BT/YOUSSEF-BT/raw/output/github-contribution-grid-snake.svg" alt="snake animation"/>
 </p>
 
 
