@@ -120,7 +120,7 @@ Data Analyst, Data Science, Machine Learning, or Deep Learning projects, particu
 [![Email](https://img.shields.io/badge/Email-bt.youssef.369@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bt.youssef.369@gmail.com)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/yussefbt)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUSSEF-BT)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/youssef-bt-74863239b)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](dans/youssef-bouzit-74863239b)
 [![StackOverflow](https://img.shields.io/badge/StackOverflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/20020901/youssef-bt)
 
 ---
