@@ -6,13 +6,14 @@
 ## 🎓 **Current Status**
 🎓 **Data Science Engineering Student** — Aspiring Data Scientist & AI Engineer, specialized in AI, NLP, functional analysis and model robustness.
 
-🔍 **Actively seeking** PFE internship followed by CDI in Data Science or Data Analyst or Artificial Intelligence.
+🔍 **Currently doing an internship at ABA Technology in Casablanca. Available for freelance projects, and open to full-time opportunities after my internship.**
 
 ---
 
 ## 💼 **Hiring Status**
-- ✅ **Available for PFE internship,freelance projects, and collaboration** starting immediately
-- ✅ **Open to full-time positions** after graduation
+- ✅ **Currently an intern at ABA Technology in Casablanca**
+- ✅ **Available for freelance projects and collaboration**
+- ✅ **Open to full-time positions after my internship**
 - 💡 **Target Positions:** Data Analyst, Data Scientist, Machine Learning Engineer, AI Developer
 - 🌐 **All data analysis roles** considered
 - 📧 **Direct contact:** bt.youssef.369@gmail.com
