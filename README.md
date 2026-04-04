@@ -15,7 +15,7 @@
 - ✅ **Available for freelance projects and collaboration**
 - ✅ **Open to full-time positions after my internship**
 - 💡 **Target Positions:** Data Analyst, Data Scientist, Machine Learning Engineer, AI Developer
-- 🌐 **All data analysis roles** considered
+- 🌐 **All data roles** considered
 - 📧 **Direct contact:** bt.youssef.369@gmail.com
 
 ---
