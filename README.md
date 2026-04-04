@@ -11,7 +11,7 @@
 ---
 
 ## 💼 **Hiring Status**
-- ✅ **Available for PFE internship,freelance projects, and collaboration ** starting immediately
+- ✅ **Available for PFE internship,freelance projects, and collaboration** starting immediately
 - ✅ **Open to full-time positions** after graduation
 - 💡 **Target Positions:** Data Analyst, Data Scientist, Machine Learning Engineer, AI Developer
 - 🌐 **All data analysis roles** considered
