@@ -18,6 +18,9 @@
   <a href="https://www.kaggle.com/yussefbt">
     <img src="https://img.shields.io/badge/Kaggle-yussefbt-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
   </a>
+  <a href="https://huggingface.co/YoussefBT">
+    <img src="https://img.shields.io/badge/Hugging%20Face-YoussefBT-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+  </a>
   <a href="https://github.com/YOUSSEF-BT">
     <img src="https://img.shields.io/badge/GitHub-YOUSSEF--BT-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
@@ -36,7 +39,7 @@ class YoussefBouzit:
     name = "Youssef Bouzit"
     role = "Data Science Engineering Student"
     location = "Morocco 🇲🇦"
-    current_status = "AI & Computer Vision Engineer Intern at ABA Technology, Casablanca"
+    current_status = "AI & Computer Vision Engineer Intern at ABA Technology, Casablanca""
 
     interests = [
         "Data Science",
@@ -232,6 +235,9 @@ I’m open to learning, building, collaborating, and contributing to meaningful 
 </a>
 <a href="https://www.linkedin.com/in/youssef-bouzit-74863239b/">
   <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://huggingface.co/YoussefBT">
+  <img src="https://img.shields.io/badge/Hugging%20Face-Explore%20My%20AI%20Work-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
 </a>
 <a href="https://github.com/YOUSSEF-BT">
   <img src="https://img.shields.io/badge/GitHub-Follow%20My%20Work-181717?style=for-the-badge&logo=github&logoColor=white"/>
