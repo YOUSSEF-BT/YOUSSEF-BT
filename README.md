@@ -36,7 +36,7 @@ class YoussefBouzit:
     name = "Youssef Bouzit"
     role = "Data Science Engineering Student"
     location = "Morocco 🇲🇦"
-    current_status = "Intern at ABA Technology, Casablanca"
+    current_status = "AI & Computer Vision Engineer Intern at ABA Technology, Casablanca"
 
     interests = [
         "Data Science",
