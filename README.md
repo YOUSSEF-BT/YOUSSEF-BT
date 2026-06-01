@@ -20,7 +20,7 @@
   <a href="https://github.com/YOUSSEF-BT">
     <img src="https://img.shields.io/badge/GitHub-YOUSSEF--BT-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="https://youssef-bt.github.io/youssef-bouzit-portfolio/">
+  <a href="https://youssef-bt.github.io/YOUSSEF_BT_PORTFOLIO/">
     <img src="https://img.shields.io/badge/Portfolio-24292e?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
 </p>
