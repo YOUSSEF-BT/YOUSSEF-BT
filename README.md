@@ -4,7 +4,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2800&pause=900&color=00D9FF&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B%2C+I'm+Youssef+Bouzit;Data+Science+Engineering+Student;Building+with+Data%2C+AI+and+Code;Turning+ideas+into+intelligent+systems" alt="Typing SVG" />
 <br/>
 
-<p>
+<p align="center">
   <a href="mailto:bt.youssef.369@gmail.com">
     <img src="https://img.shields.io/badge/Email-bt.youssef.369%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
@@ -19,6 +19,9 @@
   </a>
   <a href="https://github.com/YOUSSEF-BT">
     <img src="https://img.shields.io/badge/GitHub-YOUSSEF--BT-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://youssef-bt.github.io/youssef-bouzit-portfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-24292e?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
 </p>
 
