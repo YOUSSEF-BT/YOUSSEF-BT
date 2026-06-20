@@ -36,31 +36,31 @@
 ```python
 class YoussefBouzit:
     name = "Youssef Bouzit"
-    role = "Data Science Engineering Student"
-    location = "Morocco 🇲🇦"
-    current_status = "AI & Computer Vision Engineer Intern at ABA Technology, Casablanca""
+    role = "Data Science & AI Engineering Student"
+    location = "Morocco"
+    current_status = "AI & Computer Vision Engineer Intern at ABA Technology, Casablanca"
 
     interests = [
         "Data Science",
         "Artificial Intelligence",
         "Machine Learning",
-        "NLP",
         "Computer Vision",
-        "Model Robustness",
+        "NLP",
         "Data Analytics",
-        "MLOps"
+        "MLOps",
+        "Data Engineering"
     ]
 
     open_to = [
-        "All data roles",
+        "Data Analyst roles",
+        "Data Scientist roles",
         "AI/ML Engineer roles",
         "Computer Vision Engineer roles",
-        "MLOps roles",
-        "Freelance projects",
-        "Technical collaborations"
+        "MLOps internships",
+        "Freelance AI/Data projects"
     ]
 
-    mindset = "Build systems that are useful, explainable, and practical."
+    mindset = "Building practical, useful, and explainable AI systems."
 ```
 
 <div align="center">
