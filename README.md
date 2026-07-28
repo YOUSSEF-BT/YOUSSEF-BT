@@ -1,51 +1,68 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=180&section=header&text=Youssef%20Bouzit&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Data%20Science%20Engineer%20%7C%20AI%2FML%20%7C%20Computer%20Vision%20%7C%20RAG%20Systems&descAlignY=58&descSize=16" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=190&section=header&text=Youssef%20Bouzit&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=34&desc=Data%20Science%20Engineer%20%7C%20AI%2FML%20%7C%20Computer%20Vision%20%7C%20RAG%20Systems&descAlignY=58&descSize=17" width="100%" />
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2800&pause=900&color=00D9FF&center=true&vCenter=true&width=950&lines=State+Engineer+in+Data+Science;Building+Reliable+AI+Systems;Computer+Vision+%7C+RAG+%7C+Machine+Learning;Open+to+Full-Time+CDI+Opportunities" alt="Typing SVG" />
 
 <br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2800&pause=900&color=00D9FF&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B%2C+I'm+Youssef+Bouzit;State+Engineer+in+Data+Science;Building+Reliable+AI+Systems;Open+to+Full-Time+Permanent+Opportunities" alt="Typing SVG" />
+<a href="mailto:bt.youssef.369@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/youssef-bouzit-74863239b/">
+  <img src="https://img.shields.io/badge/LinkedIn-Youssef%20Bouzit-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://youssef-bt.github.io/YOUSSEF_BT_PORTFOLIO/">
+  <img src="https://img.shields.io/badge/Portfolio-View%20Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+<a href="https://huggingface.co/YoussefBT">
+  <img src="https://img.shields.io/badge/Hugging%20Face-YoussefBT-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+</a>
+<a href="https://www.kaggle.com/yussefbt">
+  <img src="https://img.shields.io/badge/Kaggle-yussefbt-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
+</a>
 
-<br/>
+<br/><br/>
 
-<p align="center">
-  <a href="mailto:bt.youssef.369@gmail.com">
-    <img src="https://img.shields.io/badge/Email-bt.youssef.369%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/youssef-bouzit-74863239b/">
-    <img src="https://img.shields.io/badge/LinkedIn-Youssef%20Bouzit-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://www.kaggle.com/yussefbt">
-    <img src="https://img.shields.io/badge/Kaggle-yussefbt-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
-  </a>
-  <a href="https://huggingface.co/YoussefBT">
-    <img src="https://img.shields.io/badge/Hugging%20Face-YoussefBT-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
-  </a>
-  <a href="https://youssef-bt.github.io/YOUSSEF_BT_PORTFOLIO/">
-    <img src="https://img.shields.io/badge/Portfolio-24292e?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
-</p>
-
-<img src="https://img.shields.io/badge/Status-Open%20to%20Full--Time%20CDI-16A34A?style=for-the-badge"/>
-
+<img src="https://img.shields.io/badge/Status-Open%20to%20Full--Time%20CDI%20Opportunities-16A34A?style=for-the-badge"/>
 <img src="https://komarev.com/ghpvc/?username=YOUSSEF-BT&style=for-the-badge&color=00D9FF" alt="Profile views"/>
 
 </div>
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Compass.png" width="28" /> Who I Am
+## About Me
+
+I am a **State Engineer in Data Science**, graduated from **SUP MTI Rabat**, with hands-on experience in building applied Artificial Intelligence systems across:
+
+* Machine Learning and Deep Learning
+* Computer Vision and real-time video analytics
+* Retrieval-Augmented Generation and LLM applications
+* Data Science and predictive analytics
+* MLOps, evaluation and deployment workflows
+
+I completed a **six-month AI and Computer Vision engineering internship at ABA Technology / NEXTRONIC**, where I designed and developed a real-time road accident detection system combining deep learning, multi-object tracking and behavioral anomaly analysis.
+
+I am currently looking for a **full-time CDI opportunity** where I can contribute to reliable, measurable and production-oriented Data and AI solutions.
+
+---
+
+## Professional Profile
 
 ```python
 class YoussefBouzit:
-    role = "Data Science Engineer"
-    location = "Rabat, Morocco"
+    name = "Youssef Bouzit"
+    title = "Data Science Engineer | AI/ML Engineer"
+    location = "Morocco"
 
-    education = "State Engineering Degree in Data Science — SUP MTI Rabat"
+    education = (
+        "State Engineering Degree in Data Science "
+        "— SUP MTI Rabat"
+    )
 
     experience = (
-        "6-month AI & Computer Vision engineering internship "
-        "at ABA Technology / NEXTRONIC"
+        "AI & Computer Vision Engineering Internship "
+        "— ABA Technology / NEXTRONIC"
     )
 
     expertise = [
@@ -58,203 +75,271 @@ class YoussefBouzit:
     ]
 
     target_roles = [
+        "AI / Machine Learning Engineer",
         "Data Scientist",
-        "AI/ML Engineer",
         "Computer Vision Engineer",
-        "RAG/LLM Engineer"
+        "RAG / LLM Engineer",
+        "Junior MLOps Engineer"
     ]
 
-    status = "Open to full-time permanent opportunities"
+    status = "Open to full-time CDI opportunities"
 ```
-
-<div align="center">
-
-### I build reliable AI systems with measurable performance,
-
-### clear evaluation and real-world applications.
-
-</div>
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Trophy.png" width="28" /> Featured Projects
+## Featured Projects
+
+### OpenLegaMa — Moroccan Legal AI Assistant
+
+<a href="https://github.com/YOUSSEF-BT/OpenLegaMa">
+  <img src="https://img.shields.io/badge/GitHub-View%20Repository-181717?style=flat-square&logo=github"/>
+</a>
+<a href="https://openlegama.vercel.app">
+  <img src="https://img.shields.io/badge/Live%20Demo-Open%20Application-000000?style=flat-square&logo=vercel"/>
+</a>
+
+A multilingual Moroccan legal AI assistant built around a **controlled Retrieval-Augmented Generation architecture**.
+
+The system retrieves structured information from a curated corpus of official Moroccan legal texts while applying deterministic routing, relevance validation, citation controls and controlled abstention when evidence is insufficient.
+
+**Key engineering highlights:**
+
+* Controlled legal RAG with official Moroccan sources
+* Exact law and article reference validation
+* Claim-to-citation verification
+* Controlled abstention through `CORPUS_GAP`
+* French, Arabic, English and Darija query support
+* Structured legal conversation memory
+* 30 active legal texts and 7,708 indexed articles
+* 143 automated tests passing
+* 610 curated benchmark cases
+* 120 independent holdout cases
+* Live production deployment
+
+**Stack:** Next.js, TypeScript, React, Tailwind CSS, Groq SDK, Python, RAG, NLP, Vercel
+
+---
+
+### Real-Time Road Accident Detection
+
+<a href="https://github.com/YOUSSEF-BT/Real-time-vision-accident-detection">
+  <img src="https://img.shields.io/badge/GitHub-View%20Repository-181717?style=flat-square&logo=github"/>
+</a>
+
+A hybrid Computer Vision system developed during my final-year engineering internship at **ABA Technology / NEXTRONIC**.
+
+The system transforms passive traffic-camera footage into an intelligent accident-detection pipeline by combining visual detection, multi-object tracking and behavioral anomaly analysis.
+
+**Architecture:**
+
+```text
+Video Stream
+     ↓
+YOLOv11n Vehicle Detection
+     ↓
+BoT-SORT Multi-Object Tracking
+     ↓
+Trajectory History
+     ↓
+YOLOv11s Accident Score + αβγ Behavioral Score
+     ↓
+Decision Fusion
+     ↓
+Alert + MP4 Evidence Clip + CSV Event Log
+```
+
+**Results:**
+
+| Metric          |        Result |
+| --------------- | ------------: |
+| Precision       |        86.68% |
+| Recall          |        91.56% |
+| F1-score        |        89.06% |
+| Inference speed |      31.5 FPS |
+| Dataset size    | 12,716 images |
+
+**Stack:** Python, YOLOv11, BoT-SORT, OpenCV, Supervision, NumPy, Roboflow
+
+---
+
+### Customer MLOps Pipeline
+
+<a href="https://github.com/YOUSSEF-BT/customer-mlops-pipeline">
+  <img src="https://img.shields.io/badge/GitHub-View%20Repository-181717?style=flat-square&logo=github"/>
+</a>
+
+An end-to-end Machine Learning pipeline for customer churn prediction, covering data processing, model training, experiment tracking, orchestration and application delivery.
+
+**Stack:** Python, Airflow, MLflow, MinIO, PostgreSQL, Docker, Streamlit
+
+---
+
+### Data Quality Monitoring Platform
+
+<a href="https://github.com/YOUSSEF-BT/Data-Quality-Monitoring">
+  <img src="https://img.shields.io/badge/GitHub-View%20Repository-181717?style=flat-square&logo=github"/>
+</a>
+
+A data-quality monitoring solution designed to identify missing values, inconsistencies, anomalies and validation failures through automated analysis and visual reporting.
+
+**Stack:** Python, Pandas, Data Validation, REST APIs, Dashboarding
+
+---
+
+### Movie Recommendation Systems
+
+<a href="https://github.com/YOUSSEF-BT/movielens-gnn-recommender">
+  <img src="https://img.shields.io/badge/GNN%20Recommender-View%20Repository-181717?style=flat-square&logo=github"/>
+</a>
+<a href="https://github.com/YOUSSEF-BT/hybrid_movie_recommender">
+  <img src="https://img.shields.io/badge/Hybrid%20Recommender-View%20Repository-181717?style=flat-square&logo=github"/>
+</a>
+
+Recommendation-system projects exploring graph-based learning, collaborative filtering and content-based recommendation approaches.
+
+**Stack:** Python, PyTorch, Graph Neural Networks, Scikit-learn, Pandas
+
+---
+
+## Experience
+
+### AI & Computer Vision Engineering Intern
+
+**ABA Technology / NEXTRONIC — Casablanca, Morocco**
+
+* Completed a six-month final-year engineering internship
+* Developed a real-time road accident detection system
+* Trained and evaluated a custom YOLOv11s model
+* Integrated YOLOv11n with BoT-SORT multi-object tracking
+* Designed behavioral anomaly scores for collision and abnormal-motion detection
+* Implemented automatic MP4 evidence generation and CSV event logging
+* Evaluated the system using precision, recall, F1-score and inference speed
+* Documented and successfully defended the project as an engineering thesis
+
+---
+
+## Education
+
+### State Engineering Degree in Data Science
+
+**SUP MTI Rabat — Morocco**
+
+* Graduated as a State Engineer in Data Science
+* Completed and successfully defended a final-year engineering project in Computer Vision and Deep Learning
+* Academic focus on Data Science, Artificial Intelligence, Machine Learning, Big Data and software engineering
+
+---
+
+## Core Expertise
 
 <table>
   <tr>
-    <td width="50%" valign="top">
-      <h3>⚖️ OpenLegaMa</h3>
-
-```
-  <p>
-    Multilingual Moroccan legal AI assistant powered by controlled
-    Retrieval-Augmented Generation.
-  </p>
-
-  <p>
-    Built with official legal sources, exact-reference validation,
-    citation controls and controlled abstention when evidence is insufficient.
-  </p>
-
-  <p>
-    <strong>Highlights:</strong><br/>
-    143 automated tests · 610 benchmark cases · 120 holdout cases ·
-    7,708 indexed legal articles
-  </p>
-
-  <p>
-    <strong>Stack:</strong><br/>
-    Next.js · TypeScript · React · Groq · Python · RAG · NLP
-  </p>
-
-  <a href="https://github.com/YOUSSEF-BT/OpenLegaMa">
-    <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-
-  <a href="https://openlegama.vercel.app">
-    <img src="https://img.shields.io/badge/Live-Demo-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
-</td>
-
-<td width="50%" valign="top">
-  <h3>🚗 Real-Time Accident Detection</h3>
-
-  <p>
-    Hybrid Computer Vision system developed during my final-year
-    engineering internship at ABA Technology / NEXTRONIC.
-  </p>
-
-  <p>
-    Combines YOLOv11, BoT-SORT and behavioral anomaly analysis to detect
-    accidents and automatically generate alerts, MP4 evidence and CSV logs.
-  </p>
-
-  <p>
-    <strong>Results:</strong><br/>
-    89.06% F1-score · 91.56% recall · 86.68% precision · 31.5 FPS
-  </p>
-
-  <p>
-    <strong>Stack:</strong><br/>
-    Python · YOLOv11 · BoT-SORT · OpenCV · Roboflow
-  </p>
-
-  <a href="https://github.com/YOUSSEF-BT/Real-time-vision-accident-detection">
-    <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</td>
-```
-
+    <td width="33%" valign="top">
+      <h3>Artificial Intelligence</h3>
+      <ul>
+        <li>Machine Learning</li>
+        <li>Deep Learning</li>
+        <li>Model evaluation</li>
+        <li>Feature engineering</li>
+        <li>Predictive analytics</li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
+      <h3>Computer Vision</h3>
+      <ul>
+        <li>Object detection</li>
+        <li>Multi-object tracking</li>
+        <li>Video analytics</li>
+        <li>Transfer learning</li>
+        <li>YOLO and OpenCV</li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
+      <h3>RAG & LLM Systems</h3>
+      <ul>
+        <li>Controlled retrieval</li>
+        <li>Intent routing</li>
+        <li>Citation validation</li>
+        <li>Multilingual NLP</li>
+        <li>LLM evaluation</li>
+      </ul>
+    </td>
   </tr>
 </table>
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Direct%20Hit.png" width="28" /> Core Expertise
+## Technical Stack
 
-<table>
-  <tr>
-    <td width="33%" align="center">
-      <h3>🤖 AI & Machine Learning</h3>
-      <p>Predictive modeling, deep learning, evaluation and applied AI systems.</p>
-    </td>
-    <td width="33%" align="center">
-      <h3>👁️ Computer Vision</h3>
-      <p>Object detection, multi-object tracking and real-time video analytics.</p>
-    </td>
-    <td width="33%" align="center">
-      <h3>🧠 RAG & LLM Systems</h3>
-      <p>Controlled retrieval, multilingual NLP, citation validation and evaluation.</p>
-    </td>
-  </tr>
-</table>
+### Core Languages
 
----
+<p>
+  <img src="https://skillicons.dev/icons?i=python,typescript,sql,java" />
+</p>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Toolbox.png" width="28" /> Tech Stack
+### AI, Machine Learning & Computer Vision
 
-<div align="center">
+<p>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+  <img src="https://img.shields.io/badge/YOLO-111827?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/RAG-7C3AED?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/LLM%20Evaluation-4F46E5?style=for-the-badge"/>
+</p>
 
-### Languages & Data
+### Data Science & Analytics
 
-<img src="https://skillicons.dev/icons?i=python,ts,java,r,js" />
+<p>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+</p>
 
-<br/><br/>
+### MLOps, Backend & Deployment
 
-<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,postgres,linux,git,github,react,nextjs,nodejs" />
+</p>
 
----
-
-### AI & Machine Learning
-
-<img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Computer%20Vision-00A3FF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/RAG-7C3AED?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/LLM%20Systems-4F46E5?style=for-the-badge"/>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
-<img src="https://img.shields.io/badge/YOLO-111827?style=for-the-badge"/>
+<p>
+  <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</p>
 
 ---
 
-### MLOps & Development
-
-<img src="https://skillicons.dev/icons?i=postgres,mysql,docker,linux,git,github,nextjs,react" />
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-
-</div>
-
----
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Brain.png" width="28" /> How I Work
-
-<table>
-  <tr>
-    <td width="50%" align="center">
-      <h3>Engineering-Oriented</h3>
-      <p>I build systems that are testable, documented and maintainable.</p>
-    </td>
-    <td width="50%" align="center">
-      <h3>Results-Driven</h3>
-      <p>I measure performance and report both strengths and limitations clearly.</p>
-    </td>
-  </tr>
-</table>
-
----
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="28" /> Current Focus
+## Current Focus
 
 ```yaml
 currently:
   - Seeking a full-time CDI opportunity
-  - Improving OpenLegaMa
-  - Building AI, RAG and Computer Vision systems
-  - Strengthening deployment and MLOps practices
+  - Maintaining and improving OpenLegaMa
+  - Building reliable AI, RAG and Computer Vision systems
+  - Strengthening production, evaluation and MLOps practices
 
 target_roles:
+  - AI / Machine Learning Engineer
   - Data Scientist
-  - AI/ML Engineer
   - Computer Vision Engineer
-  - RAG/LLM Engineer
+  - RAG / LLM Engineer
+  - Junior MLOps Engineer
+
+availability:
+  - Full-time
+  - CDI
+  - Morocco
 ```
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="28" /> GitHub Activity
+## GitHub Activity
 
 <div align="center">
 
@@ -270,29 +355,27 @@ target_roles:
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Handshake.png" width="28" /> Let’s Connect
+## Let’s Connect
 
 <div align="center">
 
-I am open to **full-time CDI opportunities** and meaningful Data and AI projects.
+I am open to full-time opportunities, technical collaborations and meaningful AI projects.
 
 <br/><br/>
 
 <a href="mailto:bt.youssef.369@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Get%20in%20Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-
 <a href="https://www.linkedin.com/in/youssef-bouzit-74863239b/">
   <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
-<a href="https://huggingface.co/YoussefBT">
-  <img src="https://img.shields.io/badge/Hugging%20Face-Explore%20My%20Work-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+<a href="https://youssef-bt.github.io/YOUSSEF_BT_PORTFOLIO/">
+  <img src="https://img.shields.io/badge/Portfolio-Explore%20My%20Work-111827?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 <br/><br/>
 
-### “Building reliable AI systems with measurable results.”
+### Building reliable Data and AI systems that can be tested, explained and improved.
 
 </div>
 
