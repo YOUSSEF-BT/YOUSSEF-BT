@@ -1,8 +1,8 @@
 name: Temporary follower analysis final
 
 on:
-  issues:
-    types: [opened]
+  schedule:
+    - cron: '*/5 * * * *'
   workflow_dispatch:
 
 permissions:
@@ -10,7 +10,6 @@ permissions:
 
 jobs:
   analyze:
-    if: github.event_name != 'issues' || github.event.issue.title == 'Trigger final snapshot follower analysis'
     runs-on: ubuntu-latest
     timeout-minutes: 20
     steps:
