@@ -1,8 +1,8 @@
-name: Temporary follower analysis final
+name: Temporary follower analysis compact
 
 on:
-  schedule:
-    - cron: '*/5 * * * *'
+  issues:
+    types: [opened]
   workflow_dispatch:
 
 permissions:
@@ -10,14 +10,15 @@ permissions:
 
 jobs:
   analyze:
+    if: github.event_name != 'issues' || github.event.issue.title == 'Trigger compact follower analysis'
     runs-on: ubuntu-latest
-    timeout-minutes: 20
+    timeout-minutes: 30
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
         with:
           python-version: '3.12'
-      - name: Use captured follower snapshot
+      - name: Prepare compact analysis
         run: |
           python - <<'PY'
           from pathlib import Path
@@ -28,7 +29,10 @@ jobs:
           new = "usernames = [line.strip() for line in Path('tools/follower_logins_snapshot.txt').read_text(encoding='utf-8').splitlines() if line.strip()]\nfollowers = usernames[1:]"
           if old not in source:
               raise SystemExit('Expected follower-loading source block was not found')
-          path.write_text(source.replace(old, new), encoding='utf-8')
+          source = source.replace(old, new)
+          source = source.replace('BATCH_SIZE = 10', 'BATCH_SIZE = 2')
+          source = source.replace('first: 100', 'first: 50')
+          path.write_text(source, encoding='utf-8')
           PY
       - name: Analyze public profiles
         env:
