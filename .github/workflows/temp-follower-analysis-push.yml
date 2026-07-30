@@ -4,12 +4,15 @@ on:
   schedule:
     - cron: '*/5 * * * *'
   workflow_dispatch:
+  issues:
+    types: [opened]
 
 permissions:
   contents: write
 
 jobs:
   analyze:
+    if: github.event_name != 'issues' || github.event.issue.title == 'Trigger temporary follower analysis'
     runs-on: ubuntu-latest
     timeout-minutes: 40
     steps:
