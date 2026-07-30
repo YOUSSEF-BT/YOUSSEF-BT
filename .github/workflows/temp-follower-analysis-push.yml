@@ -3,7 +3,7 @@ name: Temporary follower analysis push
 on:
   push:
     branches:
-      - temp/follower-analysis-20260730
+      - main
 
 permissions:
   contents: write
