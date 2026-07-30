@@ -1,6 +1,8 @@
 name: Temporary follower analysis
 
 on:
+  issues:
+    types: [opened]
   workflow_dispatch:
 
 permissions:
@@ -8,6 +10,7 @@ permissions:
 
 jobs:
   analyze:
+    if: github.event_name != 'issues' || github.event.issue.title == 'Trigger optimized follower analysis'
     runs-on: ubuntu-latest
     timeout-minutes: 20
     steps:
