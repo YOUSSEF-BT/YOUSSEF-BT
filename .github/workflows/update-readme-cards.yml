@@ -5,6 +5,7 @@ on:
     branches: [main]
     paths-ignore:
       - "profile/**"
+      - "README.md"
   schedule:
     - cron: "0 4 * * *"
   workflow_dispatch:
@@ -34,10 +35,28 @@ jobs:
           path: profile/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
+      - name: Point README to local cards
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+
+          path = Path("README.md")
+          text = path.read_text(encoding="utf-8")
+          text = text.replace(
+              "https://github-readme-stats.vercel.app/api?username=YOUSSEF-BT&show_icons=true&theme=tokyonight&hide_border=true&count_private=true",
+              "./profile/stats.svg",
+          )
+          text = text.replace(
+              "https://github-readme-stats.vercel.app/api/top-langs/?username=YOUSSEF-BT&layout=compact&langs_count=8&theme=tokyonight&hide_border=true",
+              "./profile/top-langs.svg",
+          )
+          path.write_text(text, encoding="utf-8")
+          PY
+
       - name: Commit cards
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add profile/stats.svg profile/top-langs.svg
+          git add README.md profile/stats.svg profile/top-langs.svg
           git commit -m "Update README cards" || exit 0
           git push
