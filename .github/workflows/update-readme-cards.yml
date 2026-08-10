@@ -35,7 +35,7 @@ jobs:
           path: profile/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Point README to local cards
+      - name: Point README to reliable local assets
         run: |
           python - <<'PY'
           from pathlib import Path
@@ -49,6 +49,10 @@ jobs:
           text = text.replace(
               "https://github-readme-stats.vercel.app/api/top-langs/?username=YOUSSEF-BT&layout=compact&langs_count=8&theme=tokyonight&hide_border=true",
               "./profile/top-langs.svg",
+          )
+          text = text.replace(
+              "https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Handshake.png",
+              "https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png",
           )
           path.write_text(text, encoding="utf-8")
           PY
