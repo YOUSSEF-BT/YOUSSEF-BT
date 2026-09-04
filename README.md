@@ -27,6 +27,9 @@
   <a href="https://youssef-bt.github.io/">
     <img src="https://img.shields.io/badge/Portfolio-24292e?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
+  <a href="https://www.fiverr.com/youssef_bouzit">
+    <img src="https://img.shields.io/badge/Fiverr-Hire%20Me-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white"/>
+  </a>
 </p>
 
 <img src="https://komarev.com/ghpvc/?username=YOUSSEF-BT&style=for-the-badge&color=3A506B" alt="Profile views"/>
@@ -243,7 +246,7 @@ open_to:
 
 <div align="center">
 
-I am open to **full-time CDI opportunities**, technical collaborations, and meaningful Data and AI projects.
+I am open to **full-time opportunities**, technical collaborations, and **freelance AI/ML projects**.
 
 <br/><br/>
 
@@ -261,6 +264,10 @@ I am open to **full-time CDI opportunities**, technical collaborations, and mean
 
 <a href="https://github.com/YOUSSEF-BT">
   <img src="https://img.shields.io/badge/GitHub-Follow%20My%20Work-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.fiverr.com/youssef_bouzit">
+  <img src="https://img.shields.io/badge/Fiverr-Hire%20Me%20for%20AI%2FML-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white"/>
 </a>
 
 <br/><br/>
